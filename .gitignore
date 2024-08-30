@@ -1,0 +1,21 @@
+# Diretórios de dependências e binários
+vendor/
+*.exe
+*.bin
+*.out
+
+# Arquivos de configuração local
+.env
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.swp
+
+# Arquivos do sistema e de editor
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados
+docs/swagger.json
+docs/swagger.yaml
