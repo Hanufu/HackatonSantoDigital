@@ -23,5 +23,7 @@ Execute o servidor: No diretório raiz da aplicação, rode o seguinte comando:
 go run main.go
 ```
 
+Acesse para utilizar o Sweggwe: http://localhost:8080/swagger/index.html
+
 Considerações Finais
 Esta API foi desenvolvida como parte de um desafio e tem o objetivo de demonstrar o uso de Go e Swagger para a construção de uma API robusta e documentada. Sinta-se à vontade para explorar, testar e expandir as funcionalidades!
